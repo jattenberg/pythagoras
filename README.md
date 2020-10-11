@@ -1,0 +1,2 @@
+# pythagoras
+investigating pytagorean triples 
